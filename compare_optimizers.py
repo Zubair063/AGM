@@ -252,7 +252,7 @@ def train_optimizer(optimizer_name, device, train_loader, test_loader,
         if val_acc == best_val_acc and epoch == best_val_acc_epoch:
             status += " | ✓Best"
         if epoch_97_5_percent is not None and epoch == epoch_97_5_percent:
-            status += " | 🎯97.5%"
+            status += " | 97.5%"
         if patience_counter > 0:
             status += f" | P:{patience_counter}/{patience}"
         
