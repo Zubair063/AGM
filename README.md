@@ -1,6 +1,4 @@
-# Adaptive Gradient Modulator (AGM) for Deep Learning Optimizers
-
-**AGM: Adaptive Gradient Modulation for Faster Convergence and Deep Learning Optimization**
+# AGM: Adaptive Gradient Modulation for Faster Convergence and Deep Learning Optimization**
 
 This repository contains the implementation of the Adaptive Gradient Modulator (AGM) and comprehensive comparisons with standard optimizers on the MNIST dataset.
 
